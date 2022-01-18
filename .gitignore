@@ -1,0 +1,3 @@
+# 不希望把 777.html 这个文件夹被git管理
+/777.html
+/bawohulue
